@@ -1,0 +1,39 @@
+.search-c{
+    margin-top: 10px;
+}
+
+.header-elements {
+    margin-left: 100px;
+    margin-top: 10px;
+}
+
+.header-elements .row .btn {
+    margin-right:10px;
+    width: 80px;
+    height: 80px;
+    text-align: center;
+    font-size: x-small;
+}
+
+.header-elements #new-day {
+    margin-right:10px;
+    width: 80px;
+    height: 80px;
+    text-align: center;
+    margin-top: 8px;
+
+}
+
+.results tr[visible='false'],
+.no-result{
+  display:none;
+}
+
+.results tr[visible='true']{
+  display:table-row;
+}
+
+.counter{
+  padding:8px; 
+  color:#ccc;
+}
